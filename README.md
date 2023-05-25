@@ -2,3 +2,4 @@
 
 ## Salvando título
 * comando git push
+* comando git pull
